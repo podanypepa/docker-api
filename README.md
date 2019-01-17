@@ -1,2 +1,2 @@
 # docker-api
-JavaScript NPM package for controlling and manipulate Docker engine.
+JavaScript NPM package for controlling and manipulating Docker engine.
